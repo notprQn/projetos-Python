@@ -1,7 +1,7 @@
 <h1> Projetos em Python </h1>
 
 <h2> Projetos com ASCII </h2>
-<h3> Imagem para Imagem: </h3>
+<h3> Imagem para ASCII: </h3>
 
 Esse código apenas transforma uma imagem desejada em ASCII
 <h3>Resultado:</h3>
