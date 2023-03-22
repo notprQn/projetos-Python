@@ -7,7 +7,7 @@
 <p> Resultado: </p>
 
 Imagem Original:
-![Alt text](ascii\images\ascii_image.png "Optional title")
+![My Remote Image](https://imgur.com/TEVOyMs?dl=0)
 
 Imagem depois de passar pelo programa:
 <img src = "c:\Users\j1p2r\Desktop\Coisas\ascii\images\ascii_image.png">
