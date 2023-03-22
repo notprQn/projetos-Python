@@ -5,6 +5,7 @@
 
 <p> Esse código apenas transforma uma imagem desejada em ASCII </p>
 <p> Resultado: </p>
+<br>
 
 Imagem Original:
 ![bad_apple](https://user-images.githubusercontent.com/90474257/227060486-af3b4e87-90c9-4111-9fd1-def97fccdb61.jpg)
