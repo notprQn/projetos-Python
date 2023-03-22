@@ -7,7 +7,7 @@
 <p> Resultado: </p>
 
 Imagem Original:
-<img src = "c:\Users\j1p2r\Desktop\Coisas\ascii\images\bad_apple.jpg">
+![Alt text](c:\Users\j1p2r\Desktop\Coisas\ascii\images\ascii_image.png "Optional title")
 
 Imagem depois de passar pelo programa:
 <img src = "c:\Users\j1p2r\Desktop\Coisas\ascii\images\ascii_image.png">
