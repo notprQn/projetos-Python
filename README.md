@@ -7,7 +7,7 @@
 <p> Resultado: </p>
 
 Imagem Original:
-![My Remote Image](https://imgur.com/TEVOyMs?dl=0)
+![bad_apple](https://user-images.githubusercontent.com/90474257/227060486-af3b4e87-90c9-4111-9fd1-def97fccdb61.jpg)
 
 Imagem depois de passar pelo programa:
-<img src = "c:\Users\j1p2r\Desktop\Coisas\ascii\images\ascii_image.png">
+![ascii_image](https://user-images.githubusercontent.com/90474257/227060508-0e44cb12-b6cd-4b56-8356-52a87c55e380.png)
