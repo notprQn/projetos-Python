@@ -2,7 +2,7 @@
 
 <h2> Projetos com ASCII </h2>
 <h3> Imagem para ASCII: </h3>
-Nome: ASCIIArt.py
+<h6>Nome: ASCIIArt.py</h6>
 
 Esse código apenas transforma uma imagem desejada em ASCII.
 <h3>Resultado:</h3>
@@ -17,7 +17,7 @@ Esse código apenas transforma uma imagem desejada em ASCII.
 
 
 <h3> Video para ASCII: </h3>
-Nome: ASCIIVideo.py
+<h6>Nome: ASCIIVideo.py</h6>
 
 Esse código transforma um video para ASCII no console.
 
