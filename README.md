@@ -27,5 +27,6 @@ Esse código transforma um video para ASCII no console.
 
 https://user-images.githubusercontent.com/90474257/227062690-2196ad63-ea7a-4aef-aa87-27a1d581394c.mp4
 
-
 <p> Video depois de passar pelo programa: </p>
+
+https://user-images.githubusercontent.com/90474257/227065442-f872b76e-8f26-4a2b-95ce-5a418bd80d4d.mp4
